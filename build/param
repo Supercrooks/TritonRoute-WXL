@@ -1,0 +1,7 @@
+lef:/nas/gzj/case/ispd19_test4/ispd19_test4.input.lef
+def:/nas/gzj/case/ispd19_test4/ispd19_test4.input.def
+guide:/nas/gzj/case/ispd19_test4/ispd19_test4.input.guide
+outputguide:/nas/gzj/case/ispd19_test4/out.guide
+output:/nas/gzj/case/ispd19_test4/out.def
+threads:25
+

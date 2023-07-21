@@ -1,0 +1,20 @@
+Warnings from file: /nas/gzj/case/ispd19_test4/ispd19_test4.input.lef
+
+WARNING (LEFPARS-2019): TOPOFSTACKONLY statement is obsolete in version 5.6 and later.
+The LEF parser will ignore this statement.
+To avoid this warning in the future, remove this statement from the LEF file with version 5.6 or later See file /nas/gzj/case/ispd19_test4/ispd19_test4.input.lef at line 397
+WARNING (LEFPARS-2019): TOPOFSTACKONLY statement is obsolete in version 5.6 and later.
+The LEF parser will ignore this statement.
+To avoid this warning in the future, remove this statement from the LEF file with version 5.6 or later See file /nas/gzj/case/ispd19_test4/ispd19_test4.input.lef at line 407
+WARNING (LEFPARS-2019): TOPOFSTACKONLY statement is obsolete in version 5.6 and later.
+The LEF parser will ignore this statement.
+To avoid this warning in the future, remove this statement from the LEF file with version 5.6 or later See file /nas/gzj/case/ispd19_test4/ispd19_test4.input.lef at line 549
+WARNING (LEFPARS-2019): TOPOFSTACKONLY statement is obsolete in version 5.6 and later.
+The LEF parser will ignore this statement.
+To avoid this warning in the future, remove this statement from the LEF file with version 5.6 or later See file /nas/gzj/case/ispd19_test4/ispd19_test4.input.lef at line 559
+WARNING (LEFPARS-2019): TOPOFSTACKONLY statement is obsolete in version 5.6 and later.
+The LEF parser will ignore this statement.
+To avoid this warning in the future, remove this statement from the LEF file with version 5.6 or later See file /nas/gzj/case/ispd19_test4/ispd19_test4.input.lef at line 702
+WARNING (LEFPARS-2019): TOPOFSTACKONLY statement is obsolete in version 5.6 and later.
+The LEF parser will ignore this statement.
+To avoid this warning in the future, remove this statement from the LEF file with version 5.6 or later See file /nas/gzj/case/ispd19_test4/ispd19_test4.input.lef at line 712

@@ -1,0 +1,222 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-RELEASE-6907ad937176f77900e3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						2,
+						9
+					]
+				},
+				{
+					"build" : "module/def/5.8-p029",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-module.def.5.8-p029-RELEASE-e4702e4f1e43b46fa527.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "module/def/5.8-p029",
+					"targetIndexes" : 
+					[
+						0,
+						3,
+						4,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "module/lef/5.8-p029",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-module.lef.5.8-p029-RELEASE-ccc6ab180165966ec966.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "module/lef/5.8-p029",
+					"targetIndexes" : 
+					[
+						1,
+						5,
+						6,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "RELEASE",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TritonRoute",
+					"targetIndexes" : 
+					[
+						2,
+						9
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "DEF_PARSER",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						3,
+						4,
+						7,
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "LEF_PARSER",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						5,
+						6,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "DefBisonTarget::@bf54a62d275cda1c0834",
+					"jsonFile" : "target-DefBisonTarget-RELEASE-1af8f7cbd7c9c2c76cf6.json",
+					"name" : "DefBisonTarget",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "LefBisonTarget::@03c5a0d7f8e7f8e7003d",
+					"jsonFile" : "target-LefBisonTarget-RELEASE-ab9db1b09292d87991b1.json",
+					"name" : "LefBisonTarget",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TritonRoute::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TritonRoute-RELEASE-c73a3a76de2ae993d02e.json",
+					"name" : "TritonRoute",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "cdef::@bf54a62d275cda1c0834",
+					"jsonFile" : "target-cdef-RELEASE-f84660b866a6e4cf0a74.json",
+					"name" : "cdef",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "cdefzlib::@bf54a62d275cda1c0834",
+					"jsonFile" : "target-cdefzlib-RELEASE-3c7a582dc9a7a2f477da.json",
+					"name" : "cdefzlib",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "clef::@03c5a0d7f8e7f8e7003d",
+					"jsonFile" : "target-clef-RELEASE-ab8ab3809c9ea414f884.json",
+					"name" : "clef",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "clefzlib::@03c5a0d7f8e7f8e7003d",
+					"jsonFile" : "target-clefzlib-RELEASE-c39465a750ac0dbc4bd3.json",
+					"name" : "clefzlib",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "def::@bf54a62d275cda1c0834",
+					"jsonFile" : "target-def-RELEASE-ba9da8c7ed84c2aebd68.json",
+					"name" : "def",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "defzlib::@bf54a62d275cda1c0834",
+					"jsonFile" : "target-defzlib-RELEASE-b8e1a4786dce729535e6.json",
+					"name" : "defzlib",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "flexroutelib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flexroutelib-RELEASE-22143e4abae68d3bd9ea.json",
+					"name" : "flexroutelib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "lef::@03c5a0d7f8e7f8e7003d",
+					"jsonFile" : "target-lef-RELEASE-d48b6da4d62f6bb48fee.json",
+					"name" : "lef",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "lefzlib::@03c5a0d7f8e7f8e7003d",
+					"jsonFile" : "target-lefzlib-RELEASE-7e23aab624f1b3c5cc5a.json",
+					"name" : "lefzlib",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/gzj/TritonRoute-WXL/build",
+		"source" : "/home/gzj/TritonRoute-WXL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
